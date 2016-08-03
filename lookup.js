@@ -1,5 +1,5 @@
-var accountSid = 'SKf9f51d3381fae452a139b638cc595d7f';
-var authToken = '8vA0kaEzF9f1u2W4OhDBdH5HBJ4mpV49';
+var accountSid = '';
+var authToken = '';
 var LookupsClient = require('twilio').LookupsClient;
 var client = new LookupsClient(accountSid, authToken);
 
